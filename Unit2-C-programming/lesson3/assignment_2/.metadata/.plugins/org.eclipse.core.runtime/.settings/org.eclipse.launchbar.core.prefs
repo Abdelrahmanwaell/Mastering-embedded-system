@@ -1,0 +1,10 @@
+LaunchTargetManager/configs/EX7_Find\ factorial\ of\ a\ Number.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/EX8_simple\ calculator\ using\ switch...case.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/check_number_postive_negitive.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:check_even_or_odd.exe,org.eclipse.launchbar.core.descriptorType.default\:check_if_char_is_vowel.exe,org.eclipse.launchbar.core.descriptorType.default\:check_number_postive_negitive.exe,org.eclipse.launchbar.core.descriptorType.default\:check _if_character_alphabet_or_not.exe,org.eclipse.launchbar.core.descriptorType.default\:find_largest_number.exe,org.eclipse.launchbar.core.descriptorType.default\:calculate_sum_of_natural_numbers.exe,org.eclipse.launchbar.core.descriptorType.default\:EX7_Find factorial of a Number.exe,org.eclipse.launchbar.core.descriptorType.default\:EX8_simple calculator using switch...case.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:check_even_or_odd.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:check_even_or_odd.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

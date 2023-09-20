@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;check_if_character_alphabet_or_not&apos;" deleteContents="false" description="Delete resource &apos;check_if_character_alphabet_or_not&apos;" element1="/check_if_character_alphabet_or_not" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1694798621348"/>
+</session>

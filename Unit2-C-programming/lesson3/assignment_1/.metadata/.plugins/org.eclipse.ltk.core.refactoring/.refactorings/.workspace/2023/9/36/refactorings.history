@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;EX7_swap_2_number_without_TempVar/main.c&apos;" deleteContents="false" description="Delete resource &apos;EX7_swap_2_number_without_TempVar/main.c&apos;" element1="/EX7_swap_2_number_without_TempVar/main.c" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1693846130361"/>&#x0A;<refactoring comment="Delete resource &apos;EX7_swap_2_number_without_TempVar&apos;" deleteContents="false" description="Delete resource &apos;EX7_swap_2_number_without_TempVar&apos;" element1="/EX7_swap_2_number_without_TempVar" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1693846431609"/>
+</session>

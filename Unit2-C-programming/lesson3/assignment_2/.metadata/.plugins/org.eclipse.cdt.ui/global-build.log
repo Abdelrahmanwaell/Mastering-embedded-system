@@ -1,0 +1,33 @@
+07:26:02 **** Incremental Build of configuration Debug for project EX8_simple calculator using switch...case ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX8_simple calculator using switch...case.exe" main.o 
+Info: Nothing to build for EX8_simple calculator using switch...case
+Info: Nothing to build for EX7_Find factorial of a Number
+09:51:34 **** Incremental Build of configuration Debug for project EX8_simple calculator using switch...case ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX8_simple calculator using switch...case.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX8_simple calculator using switch...case.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for calculate_sum_of_natural_numbers
+Info: Nothing to build for check _if_character_alphabet_or_not
+Info: Nothing to build for check_even_or_odd
+Info: Nothing to build for check_if_char_is_vowel
+Info: Nothing to build for check_number_postive_negitive
+Info: Nothing to build for find_largest_number
+09:52:05 **** Incremental Build of configuration Debug for project EX8_simple calculator using switch...case ****
+Info: Internal Builder is used for build
+gcc -o "EX8_simple calculator using switch...case.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX8_simple calculator using switch...case.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+09:52:21 **** Incremental Build of configuration Debug for project EX8_simple calculator using switch...case ****
+Info: Internal Builder is used for build
+gcc -o "EX8_simple calculator using switch...case.exe" main.o 
+Info: Nothing to build for EX8_simple calculator using switch...case

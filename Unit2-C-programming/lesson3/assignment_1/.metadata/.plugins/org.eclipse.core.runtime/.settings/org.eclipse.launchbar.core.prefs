@@ -1,0 +1,8 @@
+LaunchTargetManager/configs/EX6_swap_2_number.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:EX6_swap_2_number.exe,org.eclipse.launchbar.core.descriptorType.default\:EX7_swap_2_number_without_TempVar.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:EX6_swap_2_number.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:EX6_swap_2_number.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
