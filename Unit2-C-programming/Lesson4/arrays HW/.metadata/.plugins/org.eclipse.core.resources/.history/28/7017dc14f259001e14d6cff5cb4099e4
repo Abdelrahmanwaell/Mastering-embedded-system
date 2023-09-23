@@ -1,0 +1,32 @@
+/*
+ * main.c
+ *
+ *  Created on: Sep 23, 2023
+ *  Author:Abdelrahman Wael
+ *  EX3_Find transpose of matrix
+ */
+
+
+#include<stdio.h>
+
+void main()
+{
+	int i,j,r,c;
+	float mat[10][10];
+	float trans_mat[10][10];
+	printf("enter numbers of row & column\n");
+	fflush(stdout);
+	scanf("%d%d",&r,&c);
+	for(i=0;i<r;i++)
+	{
+		for(j=0;j<c;j++)
+		{
+
+		}
+
+	}
+
+
+
+
+}

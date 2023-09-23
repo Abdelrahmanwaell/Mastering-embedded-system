@@ -1,0 +1,18 @@
+/*
+ * main.c
+ *  Created on: Sep 23, 2023
+ * Author: Abdelrahman Wal
+ * EX1_Find the frequency of characters in string
+ */
+
+#include<stdio.h>
+
+void main()
+{
+	int i,freq;
+	char text[1000],character;
+	printf("\nEnter a string :");
+	fflush(stdout);
+	gets(text);
+
+}

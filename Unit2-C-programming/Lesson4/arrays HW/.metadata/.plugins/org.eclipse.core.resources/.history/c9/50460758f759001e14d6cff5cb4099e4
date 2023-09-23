@@ -1,0 +1,63 @@
+/*
+ * main.c
+ *
+ *  Created on: Sep 23, 2023
+ *  Author:Abdelrahman Wael
+ *  EX3_Find transpose of matrix
+ */
+
+
+#include<stdio.h>
+
+#define SIZE 10
+
+void main()
+{
+	int i,j,r,c;
+	float mat[SIZE][SIZE];
+	float trans_mat[SIZE][SIZE];
+	printf("enter numbers of row & column\n");
+	fflush(stdout);
+	scanf("%d%d",&r,&c);
+	for(i=0;i<r;i++)
+	{
+		for(j=0;j<c;j++)
+		{
+			printf("enter element  mat%d%d : ",i+1,j+1);
+			fflush(stdout);
+			scanf("%f",&mat[i][j]);
+			trans_mat[j][i]=mat[i][j];
+		}
+
+	}
+
+		printf("Entered matrix\n");
+
+				for (i=0;i<r;i++)
+					{
+						for(j=0;j<c;j++)
+						{
+							printf("%.1f\t",mat[i][j]);
+						}
+						printf("\n");
+					}
+
+
+				printf("Transposed matrix\n");
+
+							for (i=0;i<r;i++)
+								{
+									for(j=0;j<c;j++)
+									{
+										printf("%.1f\t",trans_mat[i][j]);
+									}
+									printf("\n");
+								}
+
+
+	}
+
+
+
+
+

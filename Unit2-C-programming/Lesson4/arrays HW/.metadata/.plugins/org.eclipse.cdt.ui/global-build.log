@@ -1,0 +1,540 @@
+03:52:48 **** Rebuild of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:48:21: error: subscripted value is neither array nor pointer nor vector
+      mat_Sum[i][j]=1[i][j]+= + mat2[i][j];
+                     ^
+03:53:01 **** Incremental Build of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+17:04:57 **** Rebuild of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+17:04:58 **** Rebuild of configuration Debug for project EX2_Calculate average of  using arrays ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:28:34: error: 'S' undeclared (first use in this function)
+  printf("average :%f\n",sum/num);S
+                                  ^
+..\main.c:28:34: note: each undeclared identifier is reported only once for each function it appears in
+..\main.c:29:1: error: expected ';' before '}' token
+ }
+ ^
+Info: Nothing to build for EX1_Find sum of two matrix
+17:05:15 **** Incremental Build of configuration Debug for project EX2_Calculate average of  using arrays ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Calculate average of  using arrays.exe" main.o 
+Info: Nothing to build for EX2_Calculate average of  using arrays
+17:12:09 **** Incremental Build of configuration Debug for project EX2_Calculate average of  using arrays ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Calculate average of  using arrays.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+17:13:37 **** Incremental Build of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+Info: Nothing to build for EX2_Calculate average of  using arrays
+17:13:49 **** Incremental Build of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX1_Find sum of two matrix
+17:14:40 **** Incremental Build of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX1_Find sum of two matrix.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for EX2_Calculate average of  using arrays
+17:14:44 **** Incremental Build of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+17:15:23 **** Incremental Build of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX1_Find sum of two matrix.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for EX2_Calculate average of  using arrays
+17:15:26 **** Incremental Build of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+12:00:07 **** Incremental Build of configuration Debug for project EX1_Find sum of two matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find sum of two matrix.exe" main.o 
+Info: Nothing to build for EX2_Calculate average of  using arrays
+12:00:10 **** Rebuild of configuration Debug for project EX3_Find transpose of matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:16:8: warning: unused variable 'trans_mat' [-Wunused-variable]
+  float trans_mat[10][10];
+        ^~~~~~~~~
+..\main.c:15:8: warning: unused variable 'mat' [-Wunused-variable]
+  float mat[10][10];
+        ^~~
+gcc -o "EX3_Find transpose of matrix.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+12:44:52 **** Incremental Build of configuration Debug for project EX3_Find transpose of matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX3_Find transpose of matrix.exe" main.o 
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+12:47:10 **** Incremental Build of configuration Debug for project EX3_Find transpose of matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX3_Find transpose of matrix.exe" main.o 
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+12:50:52 **** Incremental Build of configuration Debug for project EX3_Find transpose of matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX3_Find transpose of matrix.exe" main.o 
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+12:52:31 **** Incremental Build of configuration Debug for project EX3_Find transpose of matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX3_Find transpose of matrix.exe" main.o 
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+12:53:12 **** Incremental Build of configuration Debug for project EX3_Find transpose of matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX3_Find transpose of matrix.exe" main.o 
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+12:55:37 **** Incremental Build of configuration Debug for project EX3_Find transpose of matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX3_Find transpose of matrix.exe" main.o 
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+14:50:37 **** Incremental Build of configuration Debug for project EX3_Find transpose of matrix ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX3_Find transpose of matrix.exe" main.o 
+14:50:37 **** Rebuild of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:52:11 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:52:42 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX4_insert element to array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:52:44 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:53:10 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX4_insert element to array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:53:24 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX4_insert element to array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:53:27 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -o "EX4_insert element to array.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX4_insert element to array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:53:30 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -o "EX4_insert element to array.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX4_insert element to array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:53:38 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:53:48 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX4_insert element to array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+14:53:54 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:54:54 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:43:12: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+   printf("%d ",&arr[i]);
+            ^
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:56:05 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+14:56:39 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX4_insert element to array
+21:07:50 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+21:08:25 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+21:10:09 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+21:12:30 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:11:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+22:41:29 **** Rebuild of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:9:20: fatal error: stdout.h: No such file or directory
+ #include <stdout.h>
+                    ^
+compilation terminated.
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+22:41:52 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:28:11: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+   scanf("%f",arr[i]);
+           ^
+..\main.c:34:10: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'int *' [-Wformat=]
+  scanf("%f",&number);
+          ^
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX5_Program to search an element in array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+22:50:43 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+   scanf("%f",arr[i]);
+           ^
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX5_Program to search an element in array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+22:51:28 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+   scanf("%f",arr[i]);
+           ^
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX5_Program to search an element in array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+22:55:21 **** Incremental Build of configuration Debug for project EX4_insert element to array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX4_insert element to array.exe" main.o 
+22:55:23 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+   scanf("%f",arr[i]);
+           ^
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX5_Program to search an element in array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+22:56:36 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%f' expects argument of type 'float *', but argument 2 has type 'double' [-Wformat=]
+   scanf("%f",arr[i]);
+           ^
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX5_Program to search an element in array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+23:00:44 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\main.c: In function 'main':
+..\main.c:29:11: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'int' [-Wformat=]
+   scanf("%d",arr[i]);
+           ^
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+23:01:40 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+Info: Nothing to build for EX5_Program to search an element in array
+Info: Nothing to build for EX5_Program to search an element in array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+23:06:20 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX5_Program to search an element in array.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+23:06:37 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+23:07:18 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX5_Program to search an element in array
+Info: Nothing to build for EX1_Find sum of two matrix
+Info: Nothing to build for EX2_Calculate average of  using arrays
+Info: Nothing to build for EX3_Find transpose of matrix
+Info: Nothing to build for EX4_insert element to array
+23:07:57 **** Incremental Build of configuration Debug for project EX5_Program to search an element in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:12:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX5_Program to search an element in array.exe" main.o 
+Info: Nothing to build for EX5_Program to search an element in array

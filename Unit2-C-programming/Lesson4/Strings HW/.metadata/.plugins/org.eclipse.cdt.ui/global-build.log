@@ -1,0 +1,173 @@
+23:58:03 **** Rebuild of configuration Debug for project EX1_Find frequancy of characters in string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find frequancy of characters in string.exe" main.o 
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+00:06:37 **** Incremental Build of configuration Debug for project EX1_Find frequancy of characters in string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find frequancy of characters in string.exe" main.o 
+00:29:52 **** Incremental Build of configuration Debug for project EX1_Find frequancy of characters in string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find frequancy of characters in string.exe" main.o 
+00:29:53 **** Rebuild of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "EX2_Find length of string.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+00:39:17 **** Incremental Build of configuration Debug for project EX1_Find frequancy of characters in string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find frequancy of characters in string.exe" main.o 
+00:39:18 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -o "EX2_Find length of string.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for EX1_Find frequancy of characters in string
+00:43:27 **** Incremental Build of configuration Debug for project EX1_Find frequancy of characters in string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find frequancy of characters in string.exe" main.o 
+00:43:28 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -o "EX2_Find length of string.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../libmingw32.a(main.o):(.text.startup+0xa0): undefined reference to `WinMain@16'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for EX1_Find frequancy of characters in string
+00:54:25 **** Incremental Build of configuration Debug for project EX1_Find frequancy of characters in string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find frequancy of characters in string.exe" main.o 
+00:58:20 **** Incremental Build of configuration Debug for project EX1_Find frequancy of characters in string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_Find frequancy of characters in string.exe" main.o 
+00:58:20 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Find length of string.exe" main.o 
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX2_Find length of string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+00:59:06 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Find length of string.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX2_Find length of string.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+00:59:07 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -o "EX2_Find length of string.exe" main.o 
+00:59:23 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Find length of string.exe" main.o 
+01:03:11 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Find length of string.exe" main.o 
+Info: Nothing to build for EX2_Find length of string
+Info: Nothing to build for EX2_Find length of string
+Info: Nothing to build for EX2_Find length of string
+Info: Nothing to build for EX1_Find frequancy of characters in string
+01:05:30 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Find length of string.exe" main.o 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file EX2_Find length of string.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+01:05:37 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -o "EX2_Find length of string.exe" main.o 
+01:06:35 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Find length of string.exe" main.o 
+Info: Nothing to build for EX2_Find length of string
+01:16:06 **** Incremental Build of configuration Debug for project EX2_Find length of string ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c:10:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX2_Find length of string.exe" main.o 
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX2_Find length of string
+01:44:35 **** Rebuild of configuration Debug for project EX3_Reverse string without using lib ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "EX3_Reverse string without using lib.exe" main.o 
+Info: Nothing to build for EX3_Reverse string without using lib
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX2_Find length of string
+01:47:33 **** Incremental Build of configuration Debug for project EX3_Reverse string without using lib ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+..\main.c: In function 'main':
+..\main.c:27:19: warning: statement with no effect [-Wunused-value]
+  rev[strlen(text)]==0;
+  ~~~~~~~~~~~~~~~~~^~~
+gcc -o "EX3_Reverse string without using lib.exe" main.o 
+Info: Nothing to build for EX3_Reverse string without using lib
+Info: Nothing to build for EX1_Find frequancy of characters in string
+Info: Nothing to build for EX2_Find length of string
+01:48:08 **** Incremental Build of configuration Debug for project EX3_Reverse string without using lib ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+gcc -o "EX3_Reverse string without using lib.exe" main.o 
+Info: Nothing to build for EX3_Reverse string without using lib

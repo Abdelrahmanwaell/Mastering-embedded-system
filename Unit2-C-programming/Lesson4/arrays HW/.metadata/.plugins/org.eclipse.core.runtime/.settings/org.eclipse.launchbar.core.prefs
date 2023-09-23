@@ -1,0 +1,12 @@
+LaunchTargetManager/configs/EX1_Find\ sum\ of\ two\ matrix.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/EX2_Calculate\ average\ of\ \ using\ arrays.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/EX3_Find\ transpose\ of\ matrix.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/EX4_insert\ element\ to\ array.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/EX5_Program\ to\ search\ an\ element\ in\ array.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:EX1_Find sum of two matrix.exe,org.eclipse.launchbar.core.descriptorType.default\:EX2_Calculate average of  using arrays.exe,org.eclipse.launchbar.core.descriptorType.default\:EX3_Find transpose of matrix.exe,org.eclipse.launchbar.core.descriptorType.default\:EX4_insert element to array.exe,org.eclipse.launchbar.core.descriptorType.default\:EX5_Program to search an element in array.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:EX1_Find\ sum\ of\ two\ matrix.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:EX1_Find\ sum\ of\ two\ matrix.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
