@@ -1,0 +1,28 @@
+/*
+ ============================================================================
+ Name        : Ex3_Reverse a sentence using recursion.c
+ Author      : Abdelrahman Wael
+ Version     : 2/5/2024
+ Copyright   : Your copyright notice
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+void reverse()
+{
+	char c;
+	fflush(stdout);
+	scanf("%c",&c);
+	if (c!='\n')
+	{
+		reverse();
+		printf("%c",c);
+	}
+}
+void main()
+{
+printf("enter a sentence\n");
+reverse();
+
+}

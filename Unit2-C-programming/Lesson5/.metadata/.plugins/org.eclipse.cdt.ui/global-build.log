@@ -1,0 +1,209 @@
+12:50:39 **** Rebuild of configuration Debug for project EX1_find prime number between interval ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_find prime number between interval.o" "..\\src\\EX1_find prime number between interval.c" 
+..\src\EX1_find prime number between interval.c:24:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\EX1_find prime number between interval.c: In function 'main':
+..\src\EX1_find prime number between interval.c:30:33: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+  printf("prime numbers between %d and %d :  ");
+                                 ^
+..\src\EX1_find prime number between interval.c:30:40: warning: format '%d' expects a matching 'int' argument [-Wformat=]
+  printf("prime numbers between %d and %d :  ");
+                                        ^
+gcc -o "EX1_find prime number between interval.exe" "src\\EX1_find prime number between interval.o" 
+Info: Nothing to build for EX1_find prime number between interval
+12:52:38 **** Incremental Build of configuration Debug for project EX1_find prime number between interval ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_find prime number between interval.o" "..\\src\\EX1_find prime number between interval.c" 
+..\src\EX1_find prime number between interval.c:24:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "EX1_find prime number between interval.exe" "src\\EX1_find prime number between interval.o" 
+Info: Nothing to build for EX1_find prime number between interval
+13:09:41 **** Rebuild of configuration Debug for project Ex2_find factorial using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex2_find factorial using recursion.o" "..\\src\\Ex2_find factorial using recursion.c" 
+..\src\Ex2_find factorial using recursion.c:20:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+..\src\Ex2_find factorial using recursion.c: In function 'factorial':
+..\src\Ex2_find factorial using recursion.c:18:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Ex2_find factorial using recursion.exe" "src\\Ex2_find factorial using recursion.o" 
+Info: Nothing to build for EX1_find prime number between interval
+Info: Nothing to build for EX1_find prime number between interval
+Info: Nothing to build for EX1_find prime number between interval
+Info: Nothing to build for Ex2_find factorial using recursion
+13:11:42 **** Incremental Build of configuration Debug for project Ex2_find factorial using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex2_find factorial using recursion.o" "..\\src\\Ex2_find factorial using recursion.c" 
+..\src\Ex2_find factorial using recursion.c:20:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+..\src\Ex2_find factorial using recursion.c: In function 'factorial':
+..\src\Ex2_find factorial using recursion.c:18:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Ex2_find factorial using recursion.exe" "src\\Ex2_find factorial using recursion.o" 
+Info: Nothing to build for Ex2_find factorial using recursion
+13:12:53 **** Incremental Build of configuration Debug for project Ex2_find factorial using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex2_find factorial using recursion.o" "..\\src\\Ex2_find factorial using recursion.c" 
+..\src\Ex2_find factorial using recursion.c:21:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+gcc -o "Ex2_find factorial using recursion.exe" "src\\Ex2_find factorial using recursion.o" 
+Info: Nothing to build for Ex2_find factorial using recursion
+13:13:20 **** Incremental Build of configuration Debug for project Ex2_find factorial using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex2_find factorial using recursion.o" "..\\src\\Ex2_find factorial using recursion.c" 
+..\src\Ex2_find factorial using recursion.c:21:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+gcc -o "Ex2_find factorial using recursion.exe" "src\\Ex2_find factorial using recursion.o" 
+Info: Nothing to build for Ex2_find factorial using recursion
+Info: Nothing to build for EX1_find prime number between interval
+Info: Nothing to build for Ex2_find factorial using recursion
+13:31:18 **** Rebuild of configuration Debug for project Ex3_Reverse a sentence using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_Reverse a sentence using recursion.o" "..\\src\\Ex3_Reverse a sentence using recursion.c" 
+..\src\Ex3_Reverse a sentence using recursion.c: In function 'reverse':
+..\src\Ex3_Reverse a sentence using recursion.c:16:7: warning: comparison between pointer and integer
+  if (c!="\n")
+       ^~
+..\src\Ex3_Reverse a sentence using recursion.c:16:7: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Ex3_Reverse a sentence using recursion.c: At top level:
+..\src\Ex3_Reverse a sentence using recursion.c:22:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+gcc -o "Ex3_Reverse a sentence using recursion.exe" "src\\Ex3_Reverse a sentence using recursion.o" 
+Info: Nothing to build for Ex3_Reverse a sentence using recursion
+Info: Nothing to build for EX1_find prime number between interval
+Info: Nothing to build for Ex2_find factorial using recursion
+13:31:49 **** Incremental Build of configuration Debug for project Ex3_Reverse a sentence using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_Reverse a sentence using recursion.o" "..\\src\\Ex3_Reverse a sentence using recursion.c" 
+..\src\Ex3_Reverse a sentence using recursion.c: In function 'reverse':
+..\src\Ex3_Reverse a sentence using recursion.c:17:7: warning: comparison between pointer and integer
+  if (c!="\n")
+       ^~
+..\src\Ex3_Reverse a sentence using recursion.c:17:7: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Ex3_Reverse a sentence using recursion.c: At top level:
+..\src\Ex3_Reverse a sentence using recursion.c:23:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+gcc -o "Ex3_Reverse a sentence using recursion.exe" "src\\Ex3_Reverse a sentence using recursion.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Ex3_Reverse a sentence using recursion.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+13:32:12 **** Incremental Build of configuration Debug for project Ex3_Reverse a sentence using recursion ****
+Info: Internal Builder is used for build
+gcc -o "Ex3_Reverse a sentence using recursion.exe" "src\\Ex3_Reverse a sentence using recursion.o" 
+13:34:16 **** Incremental Build of configuration Debug for project Ex3_Reverse a sentence using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_Reverse a sentence using recursion.o" "..\\src\\Ex3_Reverse a sentence using recursion.c" 
+..\src\Ex3_Reverse a sentence using recursion.c: In function 'reverse':
+..\src\Ex3_Reverse a sentence using recursion.c:17:7: warning: comparison between pointer and integer
+  if (c!="\n")
+       ^~
+..\src\Ex3_Reverse a sentence using recursion.c:17:7: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Ex3_Reverse a sentence using recursion.c: At top level:
+..\src\Ex3_Reverse a sentence using recursion.c:23:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "Ex3_Reverse a sentence using recursion.exe" "src\\Ex3_Reverse a sentence using recursion.o" 
+13:35:50 **** Incremental Build of configuration Debug for project Ex3_Reverse a sentence using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_Reverse a sentence using recursion.o" "..\\src\\Ex3_Reverse a sentence using recursion.c" 
+..\src\Ex3_Reverse a sentence using recursion.c: In function 'reverse':
+..\src\Ex3_Reverse a sentence using recursion.c:17:7: warning: comparison between pointer and integer
+  if (c!="\n")
+       ^~
+..\src\Ex3_Reverse a sentence using recursion.c:17:7: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Ex3_Reverse a sentence using recursion.c: At top level:
+..\src\Ex3_Reverse a sentence using recursion.c:23:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "Ex3_Reverse a sentence using recursion.exe" "src\\Ex3_Reverse a sentence using recursion.o" 
+13:36:10 **** Incremental Build of configuration Debug for project Ex3_Reverse a sentence using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_Reverse a sentence using recursion.o" "..\\src\\Ex3_Reverse a sentence using recursion.c" 
+..\src\Ex3_Reverse a sentence using recursion.c: In function 'reverse':
+..\src\Ex3_Reverse a sentence using recursion.c:17:7: warning: comparison between pointer and integer
+  if (c!="\n")
+       ^~
+..\src\Ex3_Reverse a sentence using recursion.c:17:7: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Ex3_Reverse a sentence using recursion.c: At top level:
+..\src\Ex3_Reverse a sentence using recursion.c:23:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "Ex3_Reverse a sentence using recursion.exe" "src\\Ex3_Reverse a sentence using recursion.o" 
+13:37:47 **** Incremental Build of configuration Debug for project Ex3_Reverse a sentence using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_Reverse a sentence using recursion.o" "..\\src\\Ex3_Reverse a sentence using recursion.c" 
+..\src\Ex3_Reverse a sentence using recursion.c:23:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "Ex3_Reverse a sentence using recursion.exe" "src\\Ex3_Reverse a sentence using recursion.o" 
+Info: Nothing to build for EX1_find prime number between interval
+Info: Nothing to build for Ex2_find factorial using recursion
+Info: Nothing to build for Ex3_Reverse a sentence using recursion
+13:53:11 **** Rebuild of configuration Debug for project Ex4_Calculate a power of number using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_Calculate a power of number using recursion.o" "..\\src\\Ex4_Calculate a power of number using recursion.c" 
+..\src\Ex4_Calculate a power of number using recursion.c:11:5: warning: conflicting types for built-in function 'pow'
+ int pow(int base,int power)
+     ^~~
+..\src\Ex4_Calculate a power of number using recursion.c:18:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+gcc -o "Ex4_Calculate a power of number using recursion.exe" "src\\Ex4_Calculate a power of number using recursion.o" 
+Info: Nothing to build for Ex3_Reverse a sentence using recursion
+Info: Nothing to build for Ex4_Calculate a power of number using recursion
+Info: Nothing to build for EX1_find prime number between interval
+Info: Nothing to build for Ex2_find factorial using recursion
+Info: Nothing to build for Ex3_Reverse a sentence using recursion
+13:53:38 **** Incremental Build of configuration Debug for project Ex4_Calculate a power of number using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_Calculate a power of number using recursion.o" "..\\src\\Ex4_Calculate a power of number using recursion.c" 
+..\src\Ex4_Calculate a power of number using recursion.c:11:5: warning: conflicting types for built-in function 'pow'
+ int pow(int base,int power)
+     ^~~
+..\src\Ex4_Calculate a power of number using recursion.c:18:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+..\src\Ex4_Calculate a power of number using recursion.c: In function 'pow':
+..\src\Ex4_Calculate a power of number using recursion.c:16:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Ex4_Calculate a power of number using recursion.exe" "src\\Ex4_Calculate a power of number using recursion.o" 
+Info: Nothing to build for Ex4_Calculate a power of number using recursion
+13:54:07 **** Incremental Build of configuration Debug for project Ex4_Calculate a power of number using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_Calculate a power of number using recursion.o" "..\\src\\Ex4_Calculate a power of number using recursion.c" 
+..\src\Ex4_Calculate a power of number using recursion.c:11:5: warning: conflicting types for built-in function 'pow'
+ int pow(int base,int power)
+     ^~~
+..\src\Ex4_Calculate a power of number using recursion.c:18:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+..\src\Ex4_Calculate a power of number using recursion.c: In function 'pow':
+..\src\Ex4_Calculate a power of number using recursion.c:16:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Ex4_Calculate a power of number using recursion.exe" "src\\Ex4_Calculate a power of number using recursion.o" 
+Info: Nothing to build for EX1_find prime number between interval
+Info: Nothing to build for Ex2_find factorial using recursion
+Info: Nothing to build for Ex3_Reverse a sentence using recursion
+13:54:42 **** Incremental Build of configuration Debug for project Ex4_Calculate a power of number using recursion ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_Calculate a power of number using recursion.o" "..\\src\\Ex4_Calculate a power of number using recursion.c" 
+..\src\Ex4_Calculate a power of number using recursion.c:11:5: warning: conflicting types for built-in function 'pow'
+ int pow(int base,int power)
+     ^~~
+..\src\Ex4_Calculate a power of number using recursion.c:18:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main(void)
+      ^~~~
+gcc -o "Ex4_Calculate a power of number using recursion.exe" "src\\Ex4_Calculate a power of number using recursion.o" 
+Info: Nothing to build for Ex4_Calculate a power of number using recursion

@@ -1,0 +1,21 @@
+/*
+ ============================================================================
+ Name        : Ex4_Calculate a power of number using recursion.c
+ Author      : Abdelrahman Wael
+ Version     : 2/5/2024
+ Copyright   : Your copyright notice
+ ============================================================================
+ */
+
+#include <stdio.h>
+int pow(int base,int power)
+{
+	if (power!=0)
+		return pow(base,power-1);
+	 return 1;
+}
+
+void main(void)
+{
+
+}
