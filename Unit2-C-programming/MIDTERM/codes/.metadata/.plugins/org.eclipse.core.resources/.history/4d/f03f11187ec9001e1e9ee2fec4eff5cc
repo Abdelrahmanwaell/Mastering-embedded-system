@@ -1,0 +1,45 @@
+/*
+ ============================================================================
+ Name        : Q10_Function to count the sum of ones between two zeros
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int count_ones(int n);
+int main(void)
+{
+	printf("%d\n",count_ones(14));
+	printf("%d\n",count_ones(110));
+
+}
+int count_ones(int n)
+{
+	int counter=0,max=0;
+	while(n>1)
+	{
+	     while (n&1)
+	   {
+		   n>>=1;
+	   }
+	n>>=1;
+	     while(n&1)
+	   {
+		 counter++;
+		 n>>=1;
+	   }
+
+	   if (counter>max)
+	   {
+		   max=counter;
+		   counter=0;
+	   }
+
+
+	}
+return max;
+}

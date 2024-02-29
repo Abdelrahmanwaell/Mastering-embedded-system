@@ -1,0 +1,17 @@
+/*
+ ============================================================================
+ Name        : Q10_Function to count the sum of ones between two zeros
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+
+int main(void)
+{
+	printf("%b",14);
+}

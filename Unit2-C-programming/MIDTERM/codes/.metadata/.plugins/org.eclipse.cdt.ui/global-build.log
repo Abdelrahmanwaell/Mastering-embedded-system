@@ -1,0 +1,812 @@
+11:43:50 **** Rebuild of configuration Debug for project Q1_Function to sum all digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q1_Function to sum all digits in number.o" "..\\src\\Q1_Function to sum all digits in number.c" 
+..\src\Q1_Function to sum all digits in number.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "Q1_Function to sum all digits in number.exe" "src\\Q1_Function to sum all digits in number.o" 
+11:43:52 **** Rebuild of configuration Debug for project Q5_Function to sum all Ones in binary number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q5_Function to sum all Ones in binary number.o" "..\\src\\Q5_Function to sum all Ones in binary number.c" 
+..\src\Q5_Function to sum all Ones in binary number.c:16:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\Q5_Function to sum all Ones in binary number.c:21:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ count_ones(int x)
+ ^~~~~~~~~~
+gcc -o "Q5_Function to sum all Ones in binary number.exe" "src\\Q5_Function to sum all Ones in binary number.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+11:44:32 **** Incremental Build of configuration Debug for project Q1_Function to sum all digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q1_Function to sum all digits in number.o" "..\\src\\Q1_Function to sum all digits in number.c" 
+..\src\Q1_Function to sum all digits in number.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "Q1_Function to sum all digits in number.exe" "src\\Q1_Function to sum all digits in number.o" 
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q1_Function to sum all digits in number
+12:12:46 **** Rebuild of configuration Debug for project Q2_Funtion to calculate square root of number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Funtion to calculate square root of number.o" "..\\src\\Q2_Funtion to calculate square root of number.c" 
+gcc -o "Q2_Funtion to calculate square root of number.exe" "src\\Q2_Funtion to calculate square root of number.o" 
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+12:12:58 **** Incremental Build of configuration Debug for project Q2_Funtion to calculate square root of number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Funtion to calculate square root of number.o" "..\\src\\Q2_Funtion to calculate square root of number.c" 
+gcc -o "Q2_Funtion to calculate square root of number.exe" "src\\Q2_Funtion to calculate square root of number.o" 
+12:13:12 **** Incremental Build of configuration Debug for project Q2_Funtion to calculate square root of number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Funtion to calculate square root of number.o" "..\\src\\Q2_Funtion to calculate square root of number.c" 
+gcc -o "Q2_Funtion to calculate square root of number.exe" "src\\Q2_Funtion to calculate square root of number.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+12:42:37 **** Rebuild of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+12:43:26 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+12:43:56 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+12:45:06 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+12:45:30 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+12:55:51 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+12:56:01 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+12:56:23 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+12:56:40 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+12:56:55 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+12:59:29 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+12:59:39 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+13:01:46 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+13:03:12 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+13:03:18 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+13:08:23 **** Incremental Build of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+13:16:32 **** Rebuild of configuration Debug for project Q4_Function to reverse digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q4_Function to reverse digits in number.o" "..\\src\\Q4_Function to reverse digits in number.c" 
+gcc -o "Q4_Function to reverse digits in number.exe" "src\\Q4_Function to reverse digits in number.o" 
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q4_Function to reverse digits in number
+13:17:30 **** Incremental Build of configuration Debug for project Q4_Function to reverse digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q4_Function to reverse digits in number.o" "..\\src\\Q4_Function to reverse digits in number.c" 
+gcc -o "Q4_Function to reverse digits in number.exe" "src\\Q4_Function to reverse digits in number.o" 
+13:18:10 **** Incremental Build of configuration Debug for project Q4_Function to reverse digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q4_Function to reverse digits in number.o" "..\\src\\Q4_Function to reverse digits in number.c" 
+gcc -o "Q4_Function to reverse digits in number.exe" "src\\Q4_Function to reverse digits in number.o" 
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+13:51:16 **** Rebuild of configuration Debug for project Q6_Function to return unique number in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q6_Function to return unique number in array.o" "..\\src\\Q6_Function to return unique number in array.c" 
+gcc -o "Q6_Function to return unique number in array.exe" "src\\Q6_Function to return unique number in array.o" 
+Info: Nothing to build for Q6_Function to return unique number in array
+13:52:20 **** Incremental Build of configuration Debug for project Q6_Function to return unique number in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q6_Function to return unique number in array.o" "..\\src\\Q6_Function to return unique number in array.c" 
+gcc -o "Q6_Function to return unique number in array.exe" "src\\Q6_Function to return unique number in array.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+14:28:28 **** Rebuild of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+14:29:05 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'main':
+..\src\Q7_Function to sum numbers from 1-100.c:16:1: error: 'x' undeclared (first use in this function)
+ x=sum(100);
+ ^
+..\src\Q7_Function to sum numbers from 1-100.c:16:1: note: each undeclared identifier is reported only once for each function it appears in
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+14:29:17 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+14:30:00 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:27:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+14:30:40 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:27:1: error: expected ';' before '}' token
+ }
+ ^
+..\src\Q7_Function to sum numbers from 1-100.c:28:8: error: 'x' undeclared (first use in this function)
+ return x;
+        ^
+..\src\Q7_Function to sum numbers from 1-100.c:28:8: note: each undeclared identifier is reported only once for each function it appears in
+..\src\Q7_Function to sum numbers from 1-100.c:29:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+14:30:52 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:28:8: error: 'x' undeclared (first use in this function)
+ return x;
+        ^
+..\src\Q7_Function to sum numbers from 1-100.c:28:8: note: each undeclared identifier is reported only once for each function it appears in
+..\src\Q7_Function to sum numbers from 1-100.c:29:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+14:30:54 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:28:8: error: 'x' undeclared (first use in this function)
+ return x;
+        ^
+..\src\Q7_Function to sum numbers from 1-100.c:28:8: note: each undeclared identifier is reported only once for each function it appears in
+..\src\Q7_Function to sum numbers from 1-100.c:29:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+14:32:00 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:28:8: error: 'x' undeclared (first use in this function)
+ return x;
+        ^
+..\src\Q7_Function to sum numbers from 1-100.c:28:8: note: each undeclared identifier is reported only once for each function it appears in
+..\src\Q7_Function to sum numbers from 1-100.c:29:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+14:32:55 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:21:2: error: expected ',' or ';' before 'if'
+  if(n!=0)
+  ^~
+14:32:57 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:21:2: error: expected ',' or ';' before 'if'
+  if(n!=0)
+  ^~
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+14:33:07 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+14:33:37 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:29:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+14:38:27 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:24:2: error: expected ';' before 'sum'
+  sum(n-1);
+  ^~~
+..\src\Q7_Function to sum numbers from 1-100.c:27:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+14:38:33 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:27:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+14:39:17 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:28:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+14:39:38 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+22:16:29 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+22:17:54 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+22:22:32 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+23:15:59 **** Rebuild of configuration Debug for project Q8_Function to take array and reverse iit ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q8_Function to take array and reverse iit.o" "..\\src\\Q8_Function to take array and reverse iit.c" 
+gcc -o "Q8_Function to take array and reverse iit.exe" "src\\Q8_Function to take array and reverse iit.o" 
+Info: Nothing to build for Q8_Function to take array and reverse iit
+23:16:23 **** Incremental Build of configuration Debug for project Q8_Function to take array and reverse iit ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q8_Function to take array and reverse iit.o" "..\\src\\Q8_Function to take array and reverse iit.c" 
+gcc -o "Q8_Function to take array and reverse iit.exe" "src\\Q8_Function to take array and reverse iit.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+23:57:13 **** Rebuild of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'main':
+..\src\Q9_function to take string and reverse it.c:17:1: warning: implicit declaration of function 'revese_string' [-Wimplicit-function-declaration]
+ revese_string(a);
+ ^~~~~~~~~~~~~
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+src\Q9_function to take string and reverse it.o: In function `main':
+D:\learn in depth\unit 2\MIDTERM\codes\Q9_function to take string and reverse it\Debug/../src/Q9_function to take string and reverse it.c:17: undefined reference to `revese_string'
+collect2.exe: error: ld returned 1 exit status
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+23:57:30 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+00:00:16 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'main':
+..\src\Q9_function to take string and reverse it.c:15:2: warning: implicit declaration of function 'prinf' [-Wimplicit-function-declaration]
+ {prinf("hi")
+  ^~~~~
+..\src\Q9_function to take string and reverse it.c:16:1: error: expected ';' before 'char'
+ char a[]="Mohamed gamal";
+ ^~~~
+..\src\Q9_function to take string and reverse it.c:17:16: error: 'a' undeclared (first use in this function)
+ reverse_string(a);
+                ^
+..\src\Q9_function to take string and reverse it.c:17:16: note: each undeclared identifier is reported only once for each function it appears in
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+00:00:24 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'main':
+..\src\Q9_function to take string and reverse it.c:15:2: warning: implicit declaration of function 'prinf' [-Wimplicit-function-declaration]
+ {prinf("hi");
+  ^~~~~
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+src\Q9_function to take string and reverse it.o: In function `main':
+D:\learn in depth\unit 2\MIDTERM\codes\Q9_function to take string and reverse it\Debug/../src/Q9_function to take string and reverse it.c:15: undefined reference to `prinf'
+collect2.exe: error: ld returned 1 exit status
+00:00:38 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:22:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison between pointer and integer
+  while (arr[i]!=" ")
+               ^~
+..\src\Q9_function to take string and reverse it.c:28:15: warning: comparison with string literal results in unspecified behavior [-Waddress]
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+00:02:15 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+00:10:50 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+00:11:41 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+00:13:21 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:16: warning: comparison between pointer and integer
+  for(i=0;arr[i]!=" ";i++);
+                ^~
+..\src\Q9_function to take string and reverse it.c:22:16: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Q9_function to take string and reverse it.c:23:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q9_function to take string and reverse it
+00:14:37 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:10: error: invalid type argument of unary '*' (have 'int')
+  for(i=0;*arr[i]!=" ";i++);
+          ^~~~~~~
+..\src\Q9_function to take string and reverse it.c:23:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+00:15:01 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:18: warning: comparison between pointer and integer
+  for(i=0;*(arr+i)!=" ";i++);
+                  ^~
+..\src\Q9_function to take string and reverse it.c:22:18: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Q9_function to take string and reverse it.c:23:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+00:16:32 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:18: warning: 'sizeof' on array function parameter 'arr' will return size of 'char *' [-Wsizeof-array-argument]
+  for(i=0;i<sizeof(arr);i++)
+                  ^
+..\src\Q9_function to take string and reverse it.c:19:26: note: declared here
+ void reverse_string(char arr[])
+                          ^~~
+..\src\Q9_function to take string and reverse it.c:24:12: warning: comparison between pointer and integer
+   if(arr[i]==" ")
+            ^~
+..\src\Q9_function to take string and reverse it.c:24:12: warning: comparison with string literal results in unspecified behavior [-Waddress]
+..\src\Q9_function to take string and reverse it.c:27:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q9_function to take string and reverse it
+00:17:07 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:18: warning: 'sizeof' on array function parameter 'arr' will return size of 'char *' [-Wsizeof-array-argument]
+  for(i=0;i<sizeof(arr);i++)
+                  ^
+..\src\Q9_function to take string and reverse it.c:19:26: note: declared here
+ void reverse_string(char arr[])
+                          ^~~
+..\src\Q9_function to take string and reverse it.c:24:12: warning: comparison between pointer and integer
+   if(arr[i]==" ")
+            ^~
+..\src\Q9_function to take string and reverse it.c:24:12: warning: comparison with string literal results in unspecified behavior [-Waddress]
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+00:17:29 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:18: warning: 'sizeof' on array function parameter 'arr' will return size of 'char *' [-Wsizeof-array-argument]
+  for(i=0;i<sizeof(arr);i++)
+                  ^
+..\src\Q9_function to take string and reverse it.c:19:26: note: declared here
+ void reverse_string(char arr[])
+                          ^~~
+..\src\Q9_function to take string and reverse it.c:24:12: warning: comparison between pointer and integer
+   if(arr[i]==" ")
+            ^~
+..\src\Q9_function to take string and reverse it.c:24:12: warning: comparison with string literal results in unspecified behavior [-Waddress]
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+00:18:27 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+00:18:45 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+00:19:16 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q9_function to take string and reverse it
+00:19:46 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+00:20:10 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+00:27:10 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q9_function to take string and reverse it
+00:30:01 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+00:30:54 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+00:32:03 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:22:14: warning: comparison between pointer and integer
+  while(arr[i]!=" ")
+              ^~
+..\src\Q9_function to take string and reverse it.c:22:14: warning: comparison with string literal results in unspecified behavior [-Waddress]
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+00:41:30 **** Incremental Build of configuration Debug for project Q6_Function to return unique number in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q6_Function to return unique number in array.o" "..\\src\\Q6_Function to return unique number in array.c" 
+gcc -o "Q6_Function to return unique number in array.exe" "src\\Q6_Function to return unique number in array.o" 
+00:41:33 **** Incremental Build of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:22:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+00:41:35 **** Incremental Build of configuration Debug for project Q8_Function to take array and reverse iit ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q8_Function to take array and reverse iit.o" "..\\src\\Q8_Function to take array and reverse iit.c" 
+gcc -o "Q8_Function to take array and reverse iit.exe" "src\\Q8_Function to take array and reverse iit.o" 
+00:41:37 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:24:12: warning: comparison between pointer and integer
+   if(arr[i]==" ")
+            ^~
+..\src\Q9_function to take string and reverse it.c:24:12: warning: comparison with string literal results in unspecified behavior [-Waddress]
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+09:02:37 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s0",arr[i]);
+           ^
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+09:03:08 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:26:11: warning: format '%s' expects argument of type 'char *', but argument 2 has type 'int' [-Wformat=]
+  printf("%s",arr[i]);
+           ^
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+09:03:22 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+09:08:23 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+..\src\Q9_function to take string and reverse it.c: In function 'reverse_string':
+..\src\Q9_function to take string and reverse it.c:29:12: warning: format '%c' expects argument of type 'int', but argument 2 has type 'char *' [-Wformat=]
+   printf("%c",&arr[i]);
+            ^
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+09:08:44 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+09:09:15 **** Incremental Build of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+09:22:03 **** Rebuild of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+..\src\Q10_Function to count the sum of ones between two zeros.c: In function 'main':
+..\src\Q10_Function to count the sum of ones between two zeros.c:16:11: warning: unknown conversion type character 'b' in format [-Wformat=]
+  printf("%b",14);
+           ^
+..\src\Q10_Function to count the sum of ones between two zeros.c:16:9: warning: too many arguments for format [-Wformat-extra-args]
+  printf("%b",14);
+         ^~~~
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q10_Function to count the sum of ones between two zeros
+09:23:50 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+..\src\Q10_Function to count the sum of ones between two zeros.c: In function 'main':
+..\src\Q10_Function to count the sum of ones between two zeros.c:16:14: error: invalid digit "4" in binary constant
+  printf("%d",0b14);
+              ^~~~
+09:24:39 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+09:58:40 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+Info: Nothing to build for Q1_Function to sum all digits in number
+Info: Nothing to build for Q2_Funtion to calculate square root of number
+Info: Nothing to build for Q3_Function to print numbers between two numbers
+Info: Nothing to build for Q4_Function to reverse digits in number
+Info: Nothing to build for Q5_Function to sum all Ones in binary number
+Info: Nothing to build for Q6_Function to return unique number in array
+Info: Nothing to build for Q7_Function to sum numbers from 1-100
+Info: Nothing to build for Q8_Function to take array and reverse iit
+Info: Nothing to build for Q9_function to take string and reverse it
+Info: Nothing to build for Q10_Function to count the sum of ones between two zeros
+Info: Nothing to build for Q10_Function to count the sum of ones between two zeros
+10:01:43 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+10:02:01 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+10:03:23 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+10:09:52 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+10:11:27 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+10:12:15 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 

@@ -1,0 +1,7 @@
+10:12:15 **** Incremental Build of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+
+10:12:16 Build Finished. 0 errors, 0 warnings. (took 1s.395ms)
+

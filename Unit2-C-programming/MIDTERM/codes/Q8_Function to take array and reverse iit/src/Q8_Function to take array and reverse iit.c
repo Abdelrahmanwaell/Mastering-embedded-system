@@ -1,0 +1,36 @@
+/*
+ ============================================================================
+ Name        : Q8_Function to take array and reverse it
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+void reverse(int arr[],int n);
+int main(void)
+{
+int arr[5]={1,2,3,4,5};
+reverse(arr,5);
+}
+void reverse(int arr[],int n)
+{   printf("input :");
+	int buffer[50];
+	int i,j;
+	for (j=0,i=n-1;i>=0;i--,j++)
+	{   printf("%d",arr[j]);
+		buffer[j]=arr[i];
+	}
+	printf(" >>output: ");
+	for(j=0;j<n;j++)
+	{
+		printf("%d ",buffer[j]);
+	}
+
+
+
+
+}

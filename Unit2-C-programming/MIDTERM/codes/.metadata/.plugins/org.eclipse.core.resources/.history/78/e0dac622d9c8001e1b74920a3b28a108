@@ -1,0 +1,24 @@
+/*
+ ============================================================================
+ Name        : Q7_Function to sum numbers from 1-100
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+
+int sum(int n);
+int main(void)
+{
+x=sum(100);
+}
+int sum(int n)
+{
+	int x=0;
+	x++;
+	return sum(n-1);
+
+}
