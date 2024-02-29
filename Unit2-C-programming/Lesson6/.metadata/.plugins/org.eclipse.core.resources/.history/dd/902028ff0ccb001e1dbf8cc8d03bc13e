@@ -1,0 +1,39 @@
+/*
+ ============================================================================
+ Name        : E3_Add two complex number by passing stuct to function
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+struct SComplex{
+	float R_N;
+	float I_N;
+}c1,c2,sum;
+struct SComplex Add_complex(struct SComplex c1,struct SComplex c2);
+int main(void)
+{
+ printf("For 1st complex number\n");
+ printf("Enter real and imaginary respectively: ");
+ fflush(stdout);
+ scanf("%f %f ",&c1.R_N,&c1.I_N);
+ printf("For 2nd complex number\n");
+ printf("Enter real and imaginary respectively: ");
+ fflush(stdout);
+ scanf("%f %f ",&c2.R_N,&c2.I_N);
+ sum=Add_complex(c1,c2);
+ printf("\nSum= %.1f+%.1fi ",sum.R_N,sum.I_N);
+
+}
+struct SComplex Add_complex(struct SComplex c1,struct SComplex c2)
+{
+	struct SComplex sum;
+	sum.R_N=c1.R_N+c2.R_N;
+	sum.I_N=c1.I_N+c2.I_N;
+	return sum;
+
+}

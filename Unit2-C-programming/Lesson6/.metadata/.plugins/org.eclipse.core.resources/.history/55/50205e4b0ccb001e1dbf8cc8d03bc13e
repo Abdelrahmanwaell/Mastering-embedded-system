@@ -1,0 +1,28 @@
+/*
+ ============================================================================
+ Name        : E3_Add two complex number by passing stuct to function
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+struct SComplex{
+	float R_N;
+	float I_N;
+};
+struct SCmplex Add_complex(struct SComplex c1,struct SComplex 21);
+int main(void)
+{
+
+
+}
+struct SCmplex Add_complex(struct SComplex c1,struct SComplex 21)
+{
+	struct SComplex sum;
+	sum.R_N=c1.R
+
+}

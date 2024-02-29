@@ -1,0 +1,319 @@
+21:26:21 **** Rebuild of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+..\src\EX1_Strore information usint structure.c: In function 'main':
+..\src\EX1_Strore information usint structure.c:24:2: warning: implicit declaration of function 'priuntf' [-Wimplicit-function-declaration]
+  priuntf("%d",sizeof(try));
+  ^~~~~~~
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+src\EX1_Strore information usint structure.o: In function `main':
+D:\learn in depth\unit 2\Assignments\Unit2-C programming\Lesson6\EX1_Strore information usint structure\Debug/../src/EX1_Strore information usint structure.c:24: undefined reference to `priuntf'
+collect2.exe: error: ld returned 1 exit status
+21:26:36 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+Info: Nothing to build for EX1_Strore information usint structure
+21:27:30 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+21:27:59 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+21:31:42 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+..\src\EX1_Strore information usint structure.c: In function 'main':
+..\src\EX1_Strore information usint structure.c:17:8: error: negative width in bit-field 'v1'
+   char v1 :-1;
+        ^~
+21:35:24 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+21:37:14 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+Info: Nothing to build for EX1_Strore information usint structure
+08:46:24 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+..\src\EX1_Strore information usint structure.c: In function 'main':
+..\src\EX1_Strore information usint structure.c:23:5: error: too many arguments to function 'gets'
+     gets("%s",&S1.name);
+     ^~~~
+In file included from ..\src\EX1_Strore information usint structure.c:11:0:
+c:\mingw\include\stdio.h:676:41: note: declared here
+ _CRTIMP __cdecl __MINGW_NOTHROW  char * gets (char *);
+                                         ^~~~
+..\src\EX1_Strore information usint structure.c:30:62: warning: format '%d' expects argument of type 'int', but argument 4 has type 'double' [-Wformat=]
+     printf("Displaying Informtion\nname: %s\nRoll:%d\nMarks:%d\n",S1.name,S1.roll,S1.marks);
+                                                              ^
+08:46:43 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+..\src\EX1_Strore information usint structure.c: In function 'main':
+..\src\EX1_Strore information usint structure.c:23:5: error: too many arguments to function 'gets'
+     gets("%s",S1.name);
+     ^~~~
+In file included from ..\src\EX1_Strore information usint structure.c:11:0:
+c:\mingw\include\stdio.h:676:41: note: declared here
+ _CRTIMP __cdecl __MINGW_NOTHROW  char * gets (char *);
+                                         ^~~~
+..\src\EX1_Strore information usint structure.c:30:62: warning: format '%d' expects argument of type 'int', but argument 4 has type 'double' [-Wformat=]
+     printf("Displaying Informtion\nname: %s\nRoll:%d\nMarks:%d\n",S1.name,S1.roll,S1.marks);
+                                                              ^
+08:47:02 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+..\src\EX1_Strore information usint structure.c: In function 'main':
+..\src\EX1_Strore information usint structure.c:23:10: warning: passing argument 1 of 'gets' from incompatible pointer type [-Wincompatible-pointer-types]
+     gets(&S1.name);
+          ^
+In file included from ..\src\EX1_Strore information usint structure.c:11:0:
+c:\mingw\include\stdio.h:676:41: note: expected 'char *' but argument is of type 'char (*)[25]'
+ _CRTIMP __cdecl __MINGW_NOTHROW  char * gets (char *);
+                                         ^~~~
+..\src\EX1_Strore information usint structure.c:30:62: warning: format '%d' expects argument of type 'int', but argument 4 has type 'double' [-Wformat=]
+     printf("Displaying Informtion\nname: %s\nRoll:%d\nMarks:%d\n",S1.name,S1.roll,S1.marks);
+                                                              ^
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+08:47:37 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+..\src\EX1_Strore information usint structure.c: In function 'main':
+..\src\EX1_Strore information usint structure.c:23:10: warning: passing argument 1 of 'gets' from incompatible pointer type [-Wincompatible-pointer-types]
+     gets(&S1.name);
+          ^
+In file included from ..\src\EX1_Strore information usint structure.c:11:0:
+c:\mingw\include\stdio.h:676:41: note: expected 'char *' but argument is of type 'char (*)[25]'
+ _CRTIMP __cdecl __MINGW_NOTHROW  char * gets (char *);
+                                         ^~~~
+..\src\EX1_Strore information usint structure.c:30:62: warning: format '%d' expects argument of type 'int', but argument 4 has type 'double' [-Wformat=]
+     printf("Displaying Informtion\nname: %s\nRoll:%d\nMarks:%d\n",S1.name,S1.roll,S1.marks);
+                                                              ^
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+09:02:30 **** Incremental Build of configuration Debug for project EX1_Strore information usint structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\EX1_Strore information usint structure.o" "..\\src\\EX1_Strore information usint structure.c" 
+..\src\EX1_Strore information usint structure.c: In function 'main':
+..\src\EX1_Strore information usint structure.c:23:10: warning: passing argument 1 of 'gets' from incompatible pointer type [-Wincompatible-pointer-types]
+     gets(&S1.name);
+          ^
+In file included from ..\src\EX1_Strore information usint structure.c:11:0:
+c:\mingw\include\stdio.h:676:41: note: expected 'char *' but argument is of type 'char (*)[25]'
+ _CRTIMP __cdecl __MINGW_NOTHROW  char * gets (char *);
+                                         ^~~~
+gcc -o "EX1_Strore information usint structure.exe" "src\\EX1_Strore information usint structure.o" 
+09:02:33 **** Rebuild of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+09:02:47 **** Incremental Build of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+..\src\Q2_Add two distance using structture.c: In function 'main':
+..\src\Q2_Add two distance using structture.c:26:13: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'float *' [-Wformat=]
+     scanf("%d",&d1.inch);
+             ^
+..\src\Q2_Add two distance using structture.c:33:13: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'float *' [-Wformat=]
+     scanf("%d",&d2.inch);
+             ^
+..\src\Q2_Add two distance using structture.c:34:11: error: invalid operands to binary + (have 'struct SAdd' and 'struct SAdd')
+     sum=d1+d2;
+           ^
+09:03:56 **** Incremental Build of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+..\src\Q2_Add two distance using structture.c: In function 'main':
+..\src\Q2_Add two distance using structture.c:26:13: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'float *' [-Wformat=]
+     scanf("%d",&d1.inch);
+             ^
+..\src\Q2_Add two distance using structture.c:33:13: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'float *' [-Wformat=]
+     scanf("%d",&d2.inch);
+             ^
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+09:05:06 **** Incremental Build of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+09:06:01 **** Incremental Build of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+09:06:31 **** Incremental Build of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+..\src\Q2_Add two distance using structture.c: In function 'main':
+..\src\Q2_Add two distance using structture.c:38:14: warning: statement with no effect [-Wunused-value]
+      sum.inch-12;
+      ~~~~~~~~^~~
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+09:06:59 **** Incremental Build of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+Info: Nothing to build for EX1_Strore information usint structure
+09:40:28 **** Incremental Build of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+09:40:30 **** Rebuild of configuration Debug for project Q3_Add two complex number by passing stuct to function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Add two complex number by passing stuct to function.o" "..\\src\\Q3_Add two complex number by passing stuct to function.c" 
+..\src\Q3_Add two complex number by passing stuct to function.c:17:63: error: redefinition of parameter 'c1'
+ struct SCmplex Add_complex(struct SComplex c1,struct SComplex c1);
+                                                               ^~
+..\src\Q3_Add two complex number by passing stuct to function.c:17:44: note: previous definition of 'c1' was here
+ struct SCmplex Add_complex(struct SComplex c1,struct SComplex c1);
+                                            ^~
+..\src\Q3_Add two complex number by passing stuct to function.c: In function 'main':
+..\src\Q3_Add two complex number by passing stuct to function.c:28:2: error: invalid use of undefined type 'struct SCmplex'
+  sum=Add_complex(c1,c2);
+  ^~~
+..\src\Q3_Add two complex number by passing stuct to function.c:29:9: warning: too many arguments for format [-Wformat-extra-args]
+  printf("\nSum= %.1f+.1fi ",sum.R_N,sum.I_N);
+         ^~~~~~~~~~~~~~~~~~~
+..\src\Q3_Add two complex number by passing stuct to function.c: At top level:
+..\src\Q3_Add two complex number by passing stuct to function.c:32:16: error: return type is an incomplete type
+ struct SCmplex Add_complex(struct SComplex c1,struct SComplex c2)
+                ^~~~~~~~~~~
+..\src\Q3_Add two complex number by passing stuct to function.c:32:16: error: conflicting types for 'Add_complex'
+..\src\Q3_Add two complex number by passing stuct to function.c:17:16: note: previous declaration of 'Add_complex' was here
+ struct SCmplex Add_complex(struct SComplex c1,struct SComplex c1);
+                ^~~~~~~~~~~
+..\src\Q3_Add two complex number by passing stuct to function.c: In function 'Add_complex':
+..\src\Q3_Add two complex number by passing stuct to function.c:37:9: warning: 'return' with a value, in function returning void
+  return sum;
+         ^~~
+..\src\Q3_Add two complex number by passing stuct to function.c:32:16: note: declared here
+ struct SCmplex Add_complex(struct SComplex c1,struct SComplex c2)
+                ^~~~~~~~~~~
+Info: Nothing to build for EX1_Strore information usint structure
+Info: Nothing to build for Q2_Add two distance using structture
+09:41:27 **** Incremental Build of configuration Debug for project Q3_Add two complex number by passing stuct to function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Add two complex number by passing stuct to function.o" "..\\src\\Q3_Add two complex number by passing stuct to function.c" 
+..\src\Q3_Add two complex number by passing stuct to function.c: In function 'main':
+..\src\Q3_Add two complex number by passing stuct to function.c:28:2: error: invalid use of undefined type 'struct SCmplex'
+  sum=Add_complex(c1,c2);
+  ^~~
+..\src\Q3_Add two complex number by passing stuct to function.c:29:9: warning: too many arguments for format [-Wformat-extra-args]
+  printf("\nSum= %.1f+.1fi ",sum.R_N,sum.I_N);
+         ^~~~~~~~~~~~~~~~~~~
+..\src\Q3_Add two complex number by passing stuct to function.c: At top level:
+..\src\Q3_Add two complex number by passing stuct to function.c:32:16: error: return type is an incomplete type
+ struct SCmplex Add_complex(struct SComplex c1,struct SComplex c2)
+                ^~~~~~~~~~~
+..\src\Q3_Add two complex number by passing stuct to function.c:32:16: error: conflicting types for 'Add_complex'
+..\src\Q3_Add two complex number by passing stuct to function.c:17:16: note: previous declaration of 'Add_complex' was here
+ struct SCmplex Add_complex(struct SComplex c1,struct SComplex c2);
+                ^~~~~~~~~~~
+..\src\Q3_Add two complex number by passing stuct to function.c: In function 'Add_complex':
+..\src\Q3_Add two complex number by passing stuct to function.c:37:9: warning: 'return' with a value, in function returning void
+  return sum;
+         ^~~
+..\src\Q3_Add two complex number by passing stuct to function.c:32:16: note: declared here
+ struct SCmplex Add_complex(struct SComplex c1,struct SComplex c2)
+                ^~~~~~~~~~~
+Info: Nothing to build for EX1_Strore information usint structure
+Info: Nothing to build for Q2_Add two distance using structture
+09:43:27 **** Incremental Build of configuration Debug for project Q3_Add two complex number by passing stuct to function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Add two complex number by passing stuct to function.o" "..\\src\\Q3_Add two complex number by passing stuct to function.c" 
+..\src\Q3_Add two complex number by passing stuct to function.c: In function 'main':
+..\src\Q3_Add two complex number by passing stuct to function.c:29:9: warning: too many arguments for format [-Wformat-extra-args]
+  printf("\nSum= %.1f+.1fi ",sum.R_N,sum.I_N);
+         ^~~~~~~~~~~~~~~~~~~
+gcc -o "Q3_Add two complex number by passing stuct to function.exe" "src\\Q3_Add two complex number by passing stuct to function.o" 
+Info: Nothing to build for Q2_Add two distance using structture
+Info: Nothing to build for Q3_Add two complex number by passing stuct to function
+09:44:49 **** Incremental Build of configuration Debug for project Q3_Add two complex number by passing stuct to function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Add two complex number by passing stuct to function.o" "..\\src\\Q3_Add two complex number by passing stuct to function.c" 
+gcc -o "Q3_Add two complex number by passing stuct to function.exe" "src\\Q3_Add two complex number by passing stuct to function.o" 
+09:45:19 **** Incremental Build of configuration Debug for project Q3_Add two complex number by passing stuct to function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Add two complex number by passing stuct to function.o" "..\\src\\Q3_Add two complex number by passing stuct to function.c" 
+gcc -o "Q3_Add two complex number by passing stuct to function.exe" "src\\Q3_Add two complex number by passing stuct to function.o" 
+09:45:45 **** Incremental Build of configuration Debug for project Q3_Add two complex number by passing stuct to function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Add two complex number by passing stuct to function.o" "..\\src\\Q3_Add two complex number by passing stuct to function.c" 
+gcc -o "Q3_Add two complex number by passing stuct to function.exe" "src\\Q3_Add two complex number by passing stuct to function.o" 
+09:48:16 **** Incremental Build of configuration Debug for project Q3_Add two complex number by passing stuct to function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Add two complex number by passing stuct to function.o" "..\\src\\Q3_Add two complex number by passing stuct to function.c" 
+gcc -o "Q3_Add two complex number by passing stuct to function.exe" "src\\Q3_Add two complex number by passing stuct to function.o" 
+Info: Nothing to build for EX1_Strore information usint structure
+09:58:26 **** Rebuild of configuration Debug for project Ex4_Store information of student using structure ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_Store information of student using structure.o" "..\\src\\Ex4_Store information of student using structure.c" 
+gcc -o "Ex4_Store information of student using structure.exe" "src\\Ex4_Store information of student using structure.o" 
+Info: Nothing to build for Q2_Add two distance using structture
+09:58:29 **** Incremental Build of configuration Debug for project Q3_Add two complex number by passing stuct to function ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Add two complex number by passing stuct to function.o" "..\\src\\Q3_Add two complex number by passing stuct to function.c" 
+gcc -o "Q3_Add two complex number by passing stuct to function.exe" "src\\Q3_Add two complex number by passing stuct to function.o" 
+Info: Nothing to build for EX1_Strore information usint structure
+Info: Nothing to build for Ex4_Store information of student using structure
+10:16:03 **** Rebuild of configuration Debug for project Q10_Function to count the sum of ones between two zeros ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q10_Function to count the sum of ones between two zeros.o" "..\\src\\Q10_Function to count the sum of ones between two zeros.c" 
+gcc -o "Q10_Function to count the sum of ones between two zeros.exe" "src\\Q10_Function to count the sum of ones between two zeros.o" 
+10:16:06 **** Rebuild of configuration Debug for project Q1_Function to sum all digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q1_Function to sum all digits in number.o" "..\\src\\Q1_Function to sum all digits in number.c" 
+..\src\Q1_Function to sum all digits in number.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "Q1_Function to sum all digits in number.exe" "src\\Q1_Function to sum all digits in number.o" 
+10:16:09 **** Rebuild of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+10:16:11 **** Rebuild of configuration Debug for project Q2_Funtion to calculate square root of number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Funtion to calculate square root of number.o" "..\\src\\Q2_Funtion to calculate square root of number.c" 
+gcc -o "Q2_Funtion to calculate square root of number.exe" "src\\Q2_Funtion to calculate square root of number.o" 
+10:16:13 **** Rebuild of configuration Debug for project Q3_Function to print numbers between two numbers ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q3_Function to print numbers between two numbers.o" "..\\src\\Q3_Function to print numbers between two numbers.c" 
+gcc -o "Q3_Function to print numbers between two numbers.exe" "src\\Q3_Function to print numbers between two numbers.o" 
+10:16:16 **** Rebuild of configuration Debug for project Q4_Function to reverse digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q4_Function to reverse digits in number.o" "..\\src\\Q4_Function to reverse digits in number.c" 
+gcc -o "Q4_Function to reverse digits in number.exe" "src\\Q4_Function to reverse digits in number.o" 
+10:16:18 **** Rebuild of configuration Debug for project Q5_Function to sum all Ones in binary number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q5_Function to sum all Ones in binary number.o" "..\\src\\Q5_Function to sum all Ones in binary number.c" 
+..\src\Q5_Function to sum all Ones in binary number.c:16:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\Q5_Function to sum all Ones in binary number.c:21:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ count_ones(int x)
+ ^~~~~~~~~~
+gcc -o "Q5_Function to sum all Ones in binary number.exe" "src\\Q5_Function to sum all Ones in binary number.o" 
+10:16:21 **** Rebuild of configuration Debug for project Q6_Function to return unique number in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q6_Function to return unique number in array.o" "..\\src\\Q6_Function to return unique number in array.c" 
+gcc -o "Q6_Function to return unique number in array.exe" "src\\Q6_Function to return unique number in array.o" 
+10:16:23 **** Rebuild of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:22:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+10:16:25 **** Rebuild of configuration Debug for project Q8_Function to take array and reverse iit ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q8_Function to take array and reverse iit.o" "..\\src\\Q8_Function to take array and reverse iit.c" 
+gcc -o "Q8_Function to take array and reverse iit.exe" "src\\Q8_Function to take array and reverse iit.o" 
+10:16:28 **** Rebuild of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+Info: Nothing to build for Q10_Function to count the sum of ones between two zeros

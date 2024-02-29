@@ -1,0 +1,7 @@
+10:16:25 **** Rebuild of configuration Debug for project Q8_Function to take array and reverse iit ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q8_Function to take array and reverse iit.o" "..\\src\\Q8_Function to take array and reverse iit.c" 
+gcc -o "Q8_Function to take array and reverse iit.exe" "src\\Q8_Function to take array and reverse iit.o" 
+
+10:16:28 Build Finished. 0 errors, 0 warnings. (took 2s.38ms)
+

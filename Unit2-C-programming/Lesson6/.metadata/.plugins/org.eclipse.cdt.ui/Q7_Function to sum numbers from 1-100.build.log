@@ -1,0 +1,11 @@
+10:16:23 **** Rebuild of configuration Debug for project Q7_Function to sum numbers from 1-100 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q7_Function to sum numbers from 1-100.o" "..\\src\\Q7_Function to sum numbers from 1-100.c" 
+..\src\Q7_Function to sum numbers from 1-100.c: In function 'sum':
+..\src\Q7_Function to sum numbers from 1-100.c:22:1: warning: control reaches end of non-void function [-Wreturn-type]
+ }
+ ^
+gcc -o "Q7_Function to sum numbers from 1-100.exe" "src\\Q7_Function to sum numbers from 1-100.o" 
+
+10:16:25 Build Finished. 0 errors, 1 warnings. (took 2s.59ms)
+

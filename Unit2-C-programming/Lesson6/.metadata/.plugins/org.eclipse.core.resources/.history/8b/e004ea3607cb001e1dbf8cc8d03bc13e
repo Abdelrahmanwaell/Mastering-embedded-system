@@ -1,0 +1,41 @@
+/*
+ ============================================================================
+ Name        : Q2_Add two distance using structture
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+struct SAdd{
+	int feet;
+	float inch;
+
+}d1,d2,sum;
+int main(void)
+{
+	printf("Enter info for 1st distance:\n");
+    printf("Enter feet :");
+    fflush(stdout);
+    scanf("%d",&d1.feet);
+    printf("Enter inch :");
+    fflush(stdout);
+    scanf("%d",&d1.inch);
+	printf("Enter info for 2nd distance:\n");
+    printf("Enter feet :");
+    fflush(stdout);
+    scanf("%d",&d2.feet);
+    printf("Enter inch :");
+    fflush(stdout);
+    scanf("%d",&d2.inch);
+    sum=d1+d2;
+    if(sum.inch>12)
+    {
+    	sum.inch=-12;
+    	sum.feet++;
+    }
+    printf("sum of distance=%d'-%f",sum.feet,sum.inch);
+}

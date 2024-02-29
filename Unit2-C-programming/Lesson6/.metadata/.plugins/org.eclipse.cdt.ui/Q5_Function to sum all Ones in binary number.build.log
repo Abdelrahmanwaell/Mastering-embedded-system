@@ -1,0 +1,13 @@
+10:16:18 **** Rebuild of configuration Debug for project Q5_Function to sum all Ones in binary number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q5_Function to sum all Ones in binary number.o" "..\\src\\Q5_Function to sum all Ones in binary number.c" 
+..\src\Q5_Function to sum all Ones in binary number.c:16:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+..\src\Q5_Function to sum all Ones in binary number.c:21:1: warning: return type defaults to 'int' [-Wimplicit-int]
+ count_ones(int x)
+ ^~~~~~~~~~
+gcc -o "Q5_Function to sum all Ones in binary number.exe" "src\\Q5_Function to sum all Ones in binary number.o" 
+
+10:16:21 Build Finished. 0 errors, 2 warnings. (took 2s.655ms)
+

@@ -1,0 +1,7 @@
+10:16:28 **** Rebuild of configuration Debug for project Q9_function to take string and reverse it ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q9_function to take string and reverse it.o" "..\\src\\Q9_function to take string and reverse it.c" 
+gcc -o "Q9_function to take string and reverse it.exe" "src\\Q9_function to take string and reverse it.o" 
+
+10:16:30 Build Finished. 0 errors, 0 warnings. (took 2s.30ms)
+

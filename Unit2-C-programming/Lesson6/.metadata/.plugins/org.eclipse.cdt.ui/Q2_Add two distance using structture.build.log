@@ -1,0 +1,7 @@
+10:16:09 **** Rebuild of configuration Debug for project Q2_Add two distance using structture ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q2_Add two distance using structture.o" "..\\src\\Q2_Add two distance using structture.c" 
+gcc -o "Q2_Add two distance using structture.exe" "src\\Q2_Add two distance using structture.o" 
+
+10:16:11 Build Finished. 0 errors, 0 warnings. (took 2s.73ms)
+

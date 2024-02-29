@@ -1,0 +1,7 @@
+10:16:21 **** Rebuild of configuration Debug for project Q6_Function to return unique number in array ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q6_Function to return unique number in array.o" "..\\src\\Q6_Function to return unique number in array.c" 
+gcc -o "Q6_Function to return unique number in array.exe" "src\\Q6_Function to return unique number in array.o" 
+
+10:16:23 Build Finished. 0 errors, 0 warnings. (took 2s.25ms)
+

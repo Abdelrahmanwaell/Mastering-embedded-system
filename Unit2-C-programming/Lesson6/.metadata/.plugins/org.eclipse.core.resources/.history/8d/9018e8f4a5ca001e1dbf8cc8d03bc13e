@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : EX1_Strore.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	struct bitfld {
+		char v1 :1;
+		char v2 :4;
+		char v3 :2;
+		char v4 :1;
+		//char v5 :2;
+	}try;
+
+	printf("%d",sizeof(try));
+}

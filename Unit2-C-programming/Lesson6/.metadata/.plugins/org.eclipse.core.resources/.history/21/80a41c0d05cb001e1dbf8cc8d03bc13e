@@ -1,0 +1,32 @@
+/*
+ ============================================================================
+ Name        : EX1_Strore.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+struct SStudent {
+		char name[25];
+		int roll;
+		float marks;
+	}S1;
+int main(void)
+{
+	printf("Enter information of student\n");
+	printf("Enter name:");
+    fflush(stdout);
+    gets(&S1.name);
+    printf("Enter roll number :");
+    fflush(stdout);
+    scanf("%d",&S1.roll);
+    printf("Enter marks :");
+    fflush(stdout);
+    scanf("%f",&S1.marks);
+    printf("Displaying Informtion\nname: %s\nRoll:%d\nMarks:%d\n",S1.name,S1.roll,S1.marks);
+
+}

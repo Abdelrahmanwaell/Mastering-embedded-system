@@ -1,0 +1,10 @@
+10:16:06 **** Rebuild of configuration Debug for project Q1_Function to sum all digits in number ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Q1_Function to sum all digits in number.o" "..\\src\\Q1_Function to sum all digits in number.c" 
+..\src\Q1_Function to sum all digits in number.c:14:6: warning: return type of 'main' is not 'int' [-Wmain]
+ void main()
+      ^~~~
+gcc -o "Q1_Function to sum all digits in number.exe" "src\\Q1_Function to sum all digits in number.o" 
+
+10:16:08 Build Finished. 0 errors, 1 warnings. (took 2s.133ms)
+
