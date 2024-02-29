@@ -1,0 +1,7 @@
+23:55:31 **** Incremental Build of configuration Debug for project Ex4_print element in array in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_print element in array in reverse word.o" "..\\src\\Ex4_print element in array in reverse word.c" 
+gcc -o "Ex4_print element in array in reverse word.exe" "src\\Ex4_print element in array in reverse word.o" 
+
+23:55:33 Build Finished. 0 errors, 0 warnings. (took 1s.922ms)
+

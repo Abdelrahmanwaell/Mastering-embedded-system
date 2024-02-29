@@ -1,0 +1,12 @@
+LaunchTargetManager/configs/Ex1_handling\ pointer.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Ex2_print\ alphabets\ using\ pointer.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Ex3_print\ string\ in\ reverse\ word.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/configs/Ex4_print\ element\ in\ array\ in\ reverse\ word.exe=org.eclipse.launchbar.core.launchTargetType.local\:Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:Ex1_handling pointer.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex2_print alphabets using pointer.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex3_print string in reverse word.exe,org.eclipse.launchbar.core.descriptorType.default\:Ex4_print element in array in reverse word.exe
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:Ex1_handling\ pointer.exe/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:Ex1_handling\ pointer.exe/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:Ex3_print\ string\ in\ reverse\ word.exe/activeLaunchMode=run

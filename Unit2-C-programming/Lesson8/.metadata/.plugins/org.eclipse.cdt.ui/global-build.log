@@ -1,0 +1,145 @@
+23:42:03 **** Rebuild of configuration Debug for project Ex1_handling pointer ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex1_handling pointer.o" "..\\src\\Ex1_handling pointer.c" 
+..\src\Ex1_handling pointer.c: In function 'main':
+..\src\Ex1_handling pointer.c:20:78: warning: format '%d' expects argument of type 'int', but argument 2 has type 'int *' [-Wformat=]
+  printf("Now ab is assigned with the address of m.\n Address of pointer ab :%d\nContent of pointer ab :%d",ab,*ab);
+                                                                              ^
+gcc -o "Ex1_handling pointer.exe" "src\\Ex1_handling pointer.o" 
+23:42:53 **** Incremental Build of configuration Debug for project Ex1_handling pointer ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex1_handling pointer.o" "..\\src\\Ex1_handling pointer.c" 
+gcc -o "Ex1_handling pointer.exe" "src\\Ex1_handling pointer.o" 
+23:44:24 **** Incremental Build of configuration Debug for project Ex1_handling pointer ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex1_handling pointer.o" "..\\src\\Ex1_handling pointer.c" 
+gcc -o "Ex1_handling pointer.exe" "src\\Ex1_handling pointer.o" 
+Info: Nothing to build for Ex1_handling pointer
+21:51:08 **** Rebuild of configuration Debug for project Ex2_print alphabets using pointer ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex2_print alphabets using pointer.o" "..\\src\\Ex2_print alphabets using pointer.c" 
+gcc -o "Ex2_print alphabets using pointer.exe" "src\\Ex2_print alphabets using pointer.o" 
+Info: Nothing to build for Ex2_print alphabets using pointer
+Info: Nothing to build for Ex1_handling pointer
+Info: Nothing to build for Ex2_print alphabets using pointer
+22:14:16 **** Rebuild of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+Info: Nothing to build for Ex2_print alphabets using pointer
+Info: Nothing to build for Ex3_print string in reverse word
+22:16:15 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+22:19:01 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+Info: Nothing to build for Ex3_print string in reverse word
+Info: Nothing to build for Ex3_print string in reverse word
+Info: Nothing to build for Ex3_print string in reverse word
+22:22:03 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Ex3_print string in reverse word.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:22:10 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Ex3_print string in reverse word.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:22:21 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+22:22:44 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+22:23:07 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+Info: Nothing to build for Ex3_print string in reverse word
+22:25:16 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Ex3_print string in reverse word.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:25:26 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+22:28:57 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+Info: Nothing to build for Ex3_print string in reverse word
+Info: Nothing to build for Ex3_print string in reverse word
+22:32:30 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file Ex3_print string in reverse word.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+22:32:41 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+Info: Nothing to build for Ex3_print string in reverse word
+22:36:31 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+Info: Nothing to build for Ex3_print string in reverse word
+23:42:28 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+23:43:06 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+..\src\Ex3_print string in reverse word.c: In function 'main':
+..\src\Ex3_print string in reverse word.c:15:9: warning: unused variable 'i' [-Wunused-variable]
+ {   int i,j;
+         ^
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+23:43:33 **** Incremental Build of configuration Debug for project Ex3_print string in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex3_print string in reverse word.o" "..\\src\\Ex3_print string in reverse word.c" 
+gcc -o "Ex3_print string in reverse word.exe" "src\\Ex3_print string in reverse word.o" 
+Info: Nothing to build for Ex1_handling pointer
+Info: Nothing to build for Ex2_print alphabets using pointer
+Info: Nothing to build for Ex3_print string in reverse word
+23:53:10 **** Rebuild of configuration Debug for project Ex4_print element in array in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_print element in array in reverse word.o" "..\\src\\Ex4_print element in array in reverse word.c" 
+gcc -o "Ex4_print element in array in reverse word.exe" "src\\Ex4_print element in array in reverse word.o" 
+Info: Nothing to build for Ex4_print element in array in reverse word
+Info: Nothing to build for Ex1_handling pointer
+Info: Nothing to build for Ex2_print alphabets using pointer
+Info: Nothing to build for Ex3_print string in reverse word
+23:54:37 **** Incremental Build of configuration Debug for project Ex4_print element in array in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_print element in array in reverse word.o" "..\\src\\Ex4_print element in array in reverse word.c" 
+..\src\Ex4_print element in array in reverse word.c: In function 'main':
+..\src\Ex4_print element in array in reverse word.c:19:23: error: stray '\' in program
+  for(i=0;i<sizeof(arr)\sizeof(int);i++)
+                       ^
+..\src\Ex4_print element in array in reverse word.c:19:24: error: expected ';' before 'sizeof'
+  for(i=0;i<sizeof(arr)\sizeof(int);i++)
+                        ^~~~~~
+..\src\Ex4_print element in array in reverse word.c:25:22: error: stray '\' in program
+  ptr=&arr[sizeof(arr)\sizeof(int)-1];
+                      ^
+..\src\Ex4_print element in array in reverse word.c:25:23: error: expected ']' before 'sizeof'
+  ptr=&arr[sizeof(arr)\sizeof(int)-1];
+                       ^~~~~~
+23:54:53 **** Incremental Build of configuration Debug for project Ex4_print element in array in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_print element in array in reverse word.o" "..\\src\\Ex4_print element in array in reverse word.c" 
+gcc -o "Ex4_print element in array in reverse word.exe" "src\\Ex4_print element in array in reverse word.o" 
+23:55:31 **** Incremental Build of configuration Debug for project Ex4_print element in array in reverse word ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Ex4_print element in array in reverse word.o" "..\\src\\Ex4_print element in array in reverse word.c" 
+gcc -o "Ex4_print element in array in reverse word.exe" "src\\Ex4_print element in array in reverse word.o" 

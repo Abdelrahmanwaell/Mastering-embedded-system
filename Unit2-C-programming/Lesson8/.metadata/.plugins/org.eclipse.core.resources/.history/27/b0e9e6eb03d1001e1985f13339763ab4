@@ -1,0 +1,32 @@
+/*
+ ============================================================================
+ Name        : Ex4_print element in array in reverse word.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	int i;
+	int arr[10]={1,2,3,4,5,6,7,8,9,10};
+	printf("element in array\n");
+	for(i=0;i<sizeof(arr)/sizeof(int);i++)
+	{
+		printf("%d",arr[i]);
+	}
+	printf("\n");
+	int* ptr=arr;
+	ptr=&arr[sizeof(arr)/sizeof(int)-1];
+	printf("element of reverse array\n");
+	for(i=0;i<sizeof(arr);i++)
+	{
+		printf("%d ",*ptr);
+		ptr--;
+	}
+}

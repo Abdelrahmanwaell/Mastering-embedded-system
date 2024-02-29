@@ -1,0 +1,25 @@
+/*
+ ============================================================================
+ Name        : Ex1_handling.c
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	int m=29;
+	int *ab=NULL;
+	printf("Addres of m :%p\nvalue of m:%d\n",&m,m);
+	ab=&m;
+	printf("Now ab is assigned with the address of m.\n Address of pointer ab :%p\nContent of pointer ab :%d",ab,*ab);
+	m=34;
+	printf("\nthe value of m assigned to 34.\n Address of pointer ab :%p\nContent of pointer ab :%d",ab,*ab);
+    *ab=7;
+    printf("\nThe pointer variable ab is assigned with the value 7 now.\n Address of m :%p\nValue of m : %d",&m,m);
+}

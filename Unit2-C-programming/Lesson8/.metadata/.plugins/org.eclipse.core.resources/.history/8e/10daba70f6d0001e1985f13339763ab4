@@ -1,0 +1,28 @@
+/*
+ ============================================================================
+ Name        : Ex3_print string in reverse using pointers.
+ Author      : 
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{   int i,j;
+	char string[]="w3resource";
+	char rev_string[25];
+	char *ptr =string;
+	int k =sizeof(string);
+	ptr=string+(k-1);
+	for (i=k-1,j=0;i>=0;i--,j++)
+	{
+		rev_string[j]=*(ptr+k);
+	}
+	rev_string[j]='\0';
+    printf("input string : %s\n",string);
+    printf("output string : %s",rev_string);
+}
